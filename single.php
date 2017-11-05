@@ -7,7 +7,7 @@
     <i>
       Posted by
       <a class="author-archive-link" href="<?php echo $author_archive_link; ?>">
-        the_author();
+        <?php the_author(); ?>
       </a>
       on
       <?php the_time('F js, Y g:i a'); ?>
