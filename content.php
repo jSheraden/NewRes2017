@@ -8,7 +8,7 @@
         <?php the_author(); ?>
       </a>
       on
-      <?php the_time('F js, Y g:i a'); ?>
+      <?php the_time('F jS, Y g:i a'); ?>
     </i>
   </h5>
   <?php the_content(); ?>
