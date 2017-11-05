@@ -10,8 +10,8 @@
   <div class="posts-wrapper">
     <?php if (have_posts()): ?>
       <?php while (have_posts()): ?>
-      	the_post();
-        get_template_part('content', get_post_format());
+      	<?php the_post(); ?>
+        <?php get_template_part('content', get_post_format()); ?>
       <?php endwhile; ?>
     <?php else: ?>
       <?php get_template_part('content', '404'); ?>
