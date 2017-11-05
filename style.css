@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+p {
+  padding: 10px 0; }
+
+#site-header, #page-header, #site-footer {
+  position: relative;
+  width: 100%; }
+
+#site-header, #site-footer {
+  height: 100px;
+  background-color: #303030; }
+
+#page-header {
+  height: 550px;
+  background: url("./mustard_field.jpg") no-repeat fixed center; }
+
+#post-wrapper {
+  position: relative;
+  margin: 0 auto;
+  padding: 100px 0;
+  width: 70%;
+  color: #303030;
+  line-height: 200%;
+  font-size: 125%;
+  font-family: Helvetica; }
+
+#post-wrapper img {
+  position: relative;
+  width: 100%;
+  height: 500px; }
+
+.image-description {
+  position: relative;
+  font-size: 80%;
+  color: #808080; }
+
+@media screen and (max-width: 750px) {
+  #site-header, #site-footer {
+    height: 75px; }
+
+  #page-header {
+    height: 300px; }
+
+  #post-wrapper {
+    width: 90%;
+    padding: 50px 0;
+    font-size: 110%;
+    line-height: 200%; } }
+
+/*# sourceMappingURL=style.css.map */
