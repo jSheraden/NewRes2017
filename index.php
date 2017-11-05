@@ -7,7 +7,7 @@
 </div>
 
 <div id="page-content">
-  <div class="posts-wrapper">
+  <div class="content-wrapper">
     <?php if (have_posts()): ?>
       <?php while (have_posts()): ?>
       	<?php the_post(); ?>
