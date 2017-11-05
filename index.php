@@ -3,7 +3,7 @@
 <div id="page-header">
   <span class="site-title"><?php bloginfo('name'); ?></div>
   <div class="separator"></div>
-  <span class="site-tagline"><?php bloginfo('description'): ?></div>
+  <span class="site-tagline"><?php bloginfo('description'); ?></div>
 </div>
 
 <div id="page-content">
