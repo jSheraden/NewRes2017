@@ -27,6 +27,14 @@ p {
   height: 550px;
 }
 
+.site-title, .site-tagline, .separator {
+  text-align: center;
+}
+
+.site-title {
+  font-size: 300%;
+}
+
 .content-wrapper {
   position: relative;
   margin: 0 auto;
