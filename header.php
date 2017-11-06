@@ -11,4 +11,14 @@
 </head>
 
 <body <?php body_class(); ?>>
-  <div id="site-header"></div>
+  <div id="site-header">
+    <div id="site-header-content-wrapper">
+      <div id="site-title">
+        <a href="<?php echo site_url(); ?>"><?php bloginfo('name'); ?></a>
+      </div>
+
+      <div id="site-header-nav">
+        <?php wp_nav_menu(); ?>
+      </div>
+    </div>
+  </div>
