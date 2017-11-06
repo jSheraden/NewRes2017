@@ -31,7 +31,7 @@ i {
   background-color: cyan; }
 
 #page-title, #page-tagline {
-  margin: 0 auto; }
+  text-align: center; }
 
 #page-title {
   font-size: 500%; }
