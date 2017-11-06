@@ -34,6 +34,12 @@ i {
   height: 100%;
   margin: 0 auto; }
 
+#site-header-nav ul {
+  display: inline-block; }
+
+#site-header-nav ul li {
+  text-decoration: none; }
+
 #page-header {
   height: 550px;
   background-color: cyan; }
