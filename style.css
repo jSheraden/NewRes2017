@@ -35,7 +35,7 @@ i {
   margin: 0 auto; }
 
 #site-header-nav ul {
-  display: inline-block; }
+  list-style-type: none; }
 
 #site-header-nav ul li {
   text-decoration: none; }
