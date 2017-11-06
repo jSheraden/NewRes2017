@@ -36,8 +36,9 @@ i {
   font-size: 200%; }
 
 .separator {
-  width: 250px;
-  height: 4px; }
+  width: 200px;
+  height: 4px;
+  margin: 0 auto; }
 
 .dark {
   background-color: #404040; }
