@@ -2,7 +2,7 @@
 
 <div id="page-header">
   <p id="page-title"><?php bloginfo('name'); ?></p>
-  <div class="separator dark"></div>
+  <div class="page-header-separator"></div>
   <p id="page-tagline"><?php bloginfo('description'); ?></p>
 </div>
 

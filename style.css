@@ -42,15 +42,16 @@ i {
 #page-tagline {
   font-size: 200%; }
 
-.separator {
+.page-header-separator {
   width: 200px;
   height: 4px;
-  margin: 0 auto; }
-
-.dark {
+  margin: 0 auto;
   background-color: #404040; }
 
-.light {
+.post-separator {
+  width: 200px;
+  height: 4px;
+  padding: 10px 0;
   background-color: #A0A0A0; }
 
 .content-wrapper {

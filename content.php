@@ -12,5 +12,5 @@
     </i>
   </h5>
   <?php the_content(); ?>
-  <div class="separator light"></div>
+  <div class="post-separator"></div>
 </div>
