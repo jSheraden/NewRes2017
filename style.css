@@ -34,8 +34,8 @@ i {
   height: 550px;
   background-color: cyan; }
 
-#page-title, #page-tagline, .separator {
-  text-align: center; }
+#page-title, #page-tagline {
+  margin: 0 auto; }
 
 #page-title {
   font-size: 500%; }
