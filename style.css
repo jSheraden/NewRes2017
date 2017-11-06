@@ -19,8 +19,7 @@ p {
   background-color: #303030; }
 
 #page-header {
-  height: 550px;
-  background: url("./mustard_field.jpg") no-repeat fixed center; }
+  height: 550px; }
 
 .content-wrapper {
   position: relative;
