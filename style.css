@@ -21,6 +21,12 @@ p {
 #page-header {
   height: 550px; }
 
+#page-title, #page-tagline, .separator {
+  text-align: center; }
+
+#page-title {
+  font-size: 300%; }
+
 .content-wrapper {
   position: relative;
   margin: 0 auto;

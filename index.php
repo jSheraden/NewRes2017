@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 
 <div id="page-header">
-  <span class="site-title"><?php bloginfo('name'); ?></div>
+  <span id="page-title"><?php bloginfo('name'); ?></div>
   <div class="separator"></div>
-  <span class="site-tagline"><?php bloginfo('description'); ?></div>
+  <span id="page-tagline"><?php bloginfo('description'); ?></div>
 </div>
 
 <div id="page-content">
