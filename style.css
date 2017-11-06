@@ -31,7 +31,8 @@ i {
   background-color: #303030; }
 
 #page-header {
-  height: 550px; }
+  height: 550px;
+  background-color: cyan; }
 
 #page-title, #page-tagline, .separator {
   text-align: center; }
