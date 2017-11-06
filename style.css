@@ -33,6 +33,9 @@ i {
   height: 550px;
   background-color: cyan; }
 
+#page-header div {
+  line-height: 550px; }
+
 #page-title, #page-tagline {
   display: table;
   margin: 0 auto; }
