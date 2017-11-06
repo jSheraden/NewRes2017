@@ -38,6 +38,7 @@ i {
   list-style-type: none; }
 
 #site-header-nav ul li {
+  display: inline;
   text-decoration: none; }
 
 #page-header {
