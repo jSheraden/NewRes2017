@@ -10,13 +10,21 @@ body {
   font-family: Helvetica;
 }
 
+a {
+  border: none;
+}
+
 p {
   padding: 10px 0;
 }
 
+h3 {
+  padding: 0;
+}
+
 i {
   font-size: 100%;
-  color: #606060;
+  color: #808080;
 }
 
 #site-header, #page-header, #site-footer {
