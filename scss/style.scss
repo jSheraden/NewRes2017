@@ -37,14 +37,22 @@ i {
   background-color: #303030;
 }
 
+#site-header-content-wrapper {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
+
 #page-header {
   height: 550px;
   background-color: cyan;
 }
 
+/*
 #page-header div {
   line-height: 550px;
 }
+*/
 
 #page-title, #page-tagline {
   display: table;
